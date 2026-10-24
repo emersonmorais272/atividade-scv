@@ -23,8 +23,8 @@
       <a href="https://github.com/emersonmorais272">
           github.com/emersonmorais272
         </a>
-      </td>
-      <td>Gerencia de Dados com foco em Mineração de Dados</td>
-      <td>Aplicar técnicas de tratamento de dados para otimizar modelos analíticos e gerar melhores resultados.</td>
+    </td>
+    <td>Gerencia de Dados com foco em Mineração de Dados</td>
+    <td>Aplicar técnicas de tratamento de dados para otimizar modelos analíticos e gerar melhores resultados.</td>
   </tr>
 </table>
