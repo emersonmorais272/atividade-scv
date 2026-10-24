@@ -17,4 +17,14 @@
     <td>Desenvolvimento de agentes de IA</td>
     <td>Explorar a automação de tarefas de Engenharia de Software para uma futura disciplina optativa.</td>
   </tr>
+  <tr>
+    <td>Emerson Morais de Araujo</td>
+    <td>
+      <a href="https://github.com/emersonmorais272">
+          github.com/emersonmorais272
+        </a>
+      </td>
+      <td>Gerencia de Dados com foco em Mineração de Dados
+      <td>Aplicar técnicas de tratamento de dados para otimizar modelos analíticos e gerar melhores resultados.
+  </tr>
 </table>
